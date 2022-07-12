@@ -1,0 +1,2 @@
+# my-problem-solving-methodology
+An effort and work in progress, to distill my approach to problem solving into repeatable written steps. It occurred to me, while helping fellow programmers create solutions to algorithmic problems; that I had unconsciously developed a way of thinking, favorable to defining and overcoming logical problems. This is an attempt to clarify and refine my own methodology and hopefully help someone else along the way. 
